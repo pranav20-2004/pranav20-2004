@@ -2,7 +2,7 @@
 - 👀 I’m interested in project management
 - 🌱 I’m currently learning data science in python
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+- 📫 How to reach me pranavrama12@gmail.com
 
 <!---
 pranav20-2004/pranav20-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
