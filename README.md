@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pranav20-2004
-- 👀 I’m interested in project management
+- 👋 Hi, I’m Pranav
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning data science in python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me pranavrama12@gmail.com
